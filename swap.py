@@ -31,3 +31,16 @@ N=N-N1
 print("after swaping:")
 print("N",N)
 print("N1",N1)
+print("------------------------")
+N=int(input("enter a number:"))
+N1=int(input("enter a number:"))
+print("before swapping:")
+print("N",N)
+print("N1",N1)
+N=N^N1
+N1=N^N1
+N=N^N1
+print("after swaping:")
+print("N",N)
+print("N1",N1)
+
